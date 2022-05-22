@@ -1,1 +1,2 @@
-# Raccolta creata da me di Teoremi e applicazioni statistiche in Python!
+# Raccolta creata da me di Teoremi e applicazioni statistiche in Python! 🙂
+
